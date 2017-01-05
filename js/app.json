@@ -1,0 +1,56 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"nombre": "TuSonrisa",
+			"artista": "Elvis Crespo",
+			"song": "music/TuSonrisa.mp3",
+			"img": "img/11.jpg"
+		},
+		{
+			"id":1,
+			"nombre": "Bicileta",
+			"artista": "Shakira",
+			"song": "music/Bicicleta.mp3",
+			"img": "img/4.jpg"
+
+		},
+		{
+			"id":2,
+			"nombre": "Ahora quien",
+			"artista": "Marc Anthony",
+			"song": "music/AhoraQuien.mp3",
+			"img": "img/6.jpg"
+		},
+		{
+			"id":3,
+			"nombre": "Corazoncito bonito",
+			"artista": "Desconocido",
+			"song": "music/CorazoncitoBonitoMp3.mp3",
+			"img": "img/20.jpg"
+		},
+		{
+			"id":4,
+			"nombre": "TeViVenir",
+			"artista": "Sin Bandera",
+			"song": "music/TeViVenir.mp3",
+			"img": "img/22.jpg"
+		},
+		{
+			"id":5,
+			"nombre": "Perdedor",
+			"artista": "Enrique Inglesias",
+			"song": "music/Perdedor.mp3",
+			"img": "img/3.jpg"
+		},
+		{
+			"id":6,
+			"nombre": "Dejame un beso que me dure hasta el lunes",
+			"artista": "Desconocido",
+			"song": "music/dejameUnBeso.mp3",
+			"img": "img/2.jpg"
+		}
+
+	]
+
+}

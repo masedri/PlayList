@@ -1,0 +1,32 @@
+
+<?xml version="1.0" encoding="UTF-7" ?>
+<album>
+	<songs>
+		<id>0</id>
+		<nombre>Joaquín Sabina</nombre>
+		<artista>SABINA Y CIA Nos sobran los motivos</artista>
+		<song>music/TuSonrisa.mp3</song>
+		<img>img/11.jpg</img>
+	</songs>
+	<songs>
+		<id>1</id>
+		<nombre>Bicileta</nombre>
+		<artista>Shakira</artista>
+		<song>music/Bicicleta.mp3</song>
+		<img>img/4.jpg</img>
+	</songs>
+	<songs>
+		<id>2</id>
+		<nombre>Ahora quien</nombre>
+		<artista>Marc Anthony</artista>
+		<song>music/AhoraQuien.mp3</song>
+		<img>img/6.jpg</img>
+	</songs>
+	<songs>
+		<id>3</id>
+		<nombre>Perdedor</nombre>
+		<artista>Enrique Inglesias</artista>
+		<song>music/Perdedor.mp3</song>
+		<img>img/3.jpg</img>
+	</songs>
+</album>
